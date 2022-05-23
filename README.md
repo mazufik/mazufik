@@ -22,9 +22,9 @@
    <img aling="center" alt="Taufik" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
    <img aling="center" alt="Taufik" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
    <img aling="center" alt="Taufik" src="https://img.shields.io/badge/Numpy-092E20?style=for-the-badge&logo=numpy&logoColor=white">
-   <img aling="center" alt="Taufik" src="https://img.shields.io/badge/Pandas-43853D?style=for-the-badge&logo=pandas&logoColor=white">
 </div> 
 <div> 
+   <img aling="center" alt="Taufik" src="https://img.shields.io/badge/Pandas-43853D?style=for-the-badge&logo=pandas&logoColor=white">
    <img aling="center" alt="Taufik" src="https://img.shields.io/badge/Tensorflow-FF2D20?style=for-the-badge&logo=tensorflow&logoColor=white">
    <img aling="center" alt="Ismaely" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
    <img aling="center" alt="Ismaely" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
