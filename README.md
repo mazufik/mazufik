@@ -50,7 +50,7 @@
 <div style="display: iniline_block"> 
   <b> <h2>OS</h2> 
   <img aling="center" alt="Taufik" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
-  <img aling="center" alt="Ismaely" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+  <img aling="center" alt="Taufik" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 </div>
  
  <div> 
