@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Taufik a Full Stack Web Developer | AI Engineer
+### Hi there 👋, I'm Taufik a Full Stack Web Developer | AI Engineer Enthusiast | Cyber Security Enthusiast
 
 <ul>
   <li>👀 I’m interested in Programming</li>
